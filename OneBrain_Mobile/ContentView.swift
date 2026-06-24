@@ -9,13 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        // Demo mode for now: straight into the case picker. Later this becomes
+        // Auth() → ClinicianView() once MSAL / Entra sign-in is wired.
+        ClinicianView()
     }
 }
 

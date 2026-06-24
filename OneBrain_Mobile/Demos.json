@@ -1,0 +1,452 @@
+{
+ "demos": [
+  {
+   "key": "glioma",
+   "label": "Glioma",
+   "blurb": "Left frontal mass \u00b7 first seizure",
+   "pathway": "glioma",
+   "age": "47",
+   "sex": "male",
+   "vignette": "# Neurosurgery Inpatient Consultation\r\n\r\nReason for consult: New left frontal intra-axial mass on MRI; first-time seizure.\r\nPatient: 47-year-old right-handed man.\r\n\r\n## History of Present Illness\r\n\r\nThe patient is a 47-year-old right-handed man, previously high-functioning (works as a tax accountant), with no prior neurologic or psychiatric history, who presents after a first-ever witnessed generalized tonic-clonic seizure.\r\n\r\nOver the preceding ~4 months he has shown a gradual, progressive change in personality and behavior: uncharacteristically disinhibited and impulsive, making crude off-color remarks, laughing inappropriately, and interrupting others. His wife reports increasingly poor judgment (two impulsive large online purchases, uncharacteristic financial risk-taking), reduced initiative and emotional flatness alternating with brief irritable outbursts. The patient minimizes these changes (limited insight). Over the past ~6 weeks he has had intermittent dull bifrontal headaches, worse on waking, partially relieved by acetaminophen. His wife also noted reduced sense of smell (failed to notice a gas burner left on twice).\r\n\r\nOn the morning of admission he had a witnessed generalized tonic-clonic seizure lasting ~60\u201390 seconds with tongue-biting and urinary incontinence, followed by ~20 minutes of post-ictal confusion. No fever, head trauma, drug use, alcohol withdrawal, or sleep deprivation; no prior seizures, no family history of epilepsy. In the ED he was stable and afebrile; noncontrast CT showed a hypodense, mildly expansile left inferior frontal lesion without hemorrhage; he was loaded with levetiracetam.\r\n\r\nPertinent negatives: no limb weakness, no aphasia per collateral, no visual loss/diplopia, no known malignancy, no immunocompromise, no recent travel.\r\n\r\n## Past Medical History\r\n- Hypertension (lisinopril-controlled)\r\n- Hyperlipidemia\r\n- No prior seizures, stroke, head injury, CNS infection, or known cancer.\r\n\r\n## Medications\r\n- Home: lisinopril 10 mg daily; atorvastatin 20 mg nightly; acetaminophen PRN.\r\n- Inpatient: levetiracetam 1000 mg IV load then 500 mg IV q12h; home antihypertensive continued.\r\n\r\n## Family History\r\n- No known brain tumors, CNS disease, or hereditary cancer syndromes.\r\n\r\n## Neurologic Examination\r\n- Mental status: alert, oriented; tangential, disinhibited, anosognosic; speech fluent, no aphasia; attention mildly impaired. MoCA 25/30 (lost points on abstraction, delayed recall, executive clock item) \u2014 frontal/executive-predominant pattern.\r\n- Frontal release signs: positive grasp (left > right) and palmomental reflexes.\r\n- CN I: reduced smell, left > right (hyposmia). CN II\u2013XII otherwise intact; no papilledema.\r\n- Motor 5/5, no drift; sensation intact; reflexes 2+ symmetric, plantars flexor; coordination and gait normal.\r\n\r\n## Neuroimaging\r\nMRI brain with and without gadolinium: an expansile, infiltrative intra-axial mass centered in the left orbitofrontal cortex / gyrus rectus, extending into the adjacent medial and lateral orbital gyri and posteromedially toward the subcallosal region (~3.5 \u00d7 3.0 \u00d7 3.2 cm). T1 hypointense, T2/FLAIR hyperintense with a T2\u2013FLAIR mismatch sign. No appreciable enhancement, no restricted diffusion, no hemorrhage, no internal necrosis or cystic change. Mild local mass effect; no midline shift, no hydrocephalus. The mass abuts the left olfactory sulcus/tract region (correlating with the hyposmia); the genu of the corpus callosum is not clearly involved.\r\n\r\nNeuroradiology impression: non-enhancing, T2\u2013FLAIR-mismatch, infiltrative left orbitofrontal mass \u2014 most consistent with a diffuse low-grade glioma (WHO grade 2), favoring IDH-mutant astrocytoma; oligodendroglioma less favored. Higher-grade transformation cannot be excluded on imaging alone; tissue required.\r\n\r\n## Assessment\r\n47-year-old right-handed man with a subacute orbitofrontal (disinhibited / \"pseudopsychopathic\") syndrome \u2014 disinhibition, impulsivity, impaired judgment, anosognosia, and hyposmia \u2014 punctuated by a first unprovoked generalized tonic-clonic seizure. MRI shows a non-enhancing, infiltrative left orbitofrontal / gyrus rectus mass with imaging features most consistent with a low-grade diffuse glioma. The behavioral syndrome localizes to the orbitofrontal / ventromedial prefrontal cortex and the hyposmia to the adjacent olfactory tract, both concordant with the lesion location; the seizure is attributable to the structural lesion.\r\n\r\nRadiographic differential: (1) diffuse astrocytoma, IDH-mutant, WHO grade 2 (favored); (2) oligodendroglioma, IDH-mutant and 1p/19q-codeleted (less favored); (3) less likely higher-grade infiltrating glioma with a non-enhancing component, or a non-neoplastic mimic. Definitive diagnosis and grading require tissue with integrated molecular characterization (WHO CNS5).\r\n\r\n## Plan\r\n- Multidisciplinary neuro-oncology tumor board. Surgical goal: maximal safe resection for diagnosis and oncologic benefit vs. stereotactic biopsy if resection is high-risk; dominant-hemisphere location, so detailed pre-operative planning with functional/diffusion imaging for proximity to eloquent tracts and the anterior cerebral / lenticulostriate vasculature; orbitofrontal target generally non-eloquent for language/motor, with proximity to subgenual/limbic structures noted.\r\n- Tissue to neuropathology for a full molecular panel: IDH1/IDH2, ATRX, 1p/19q codeletion, MGMT promoter methylation, CDKN2A/B, TERT promoter, and Ki-67; integrated WHO CNS5 diagnosis to follow.\r\n- Symptomatic (structural) seizure: continue levetiracetam, transition to oral; monitor mood/behavior given the frontal syndrome; first-seizure driving-cessation counseling.\r\n- Headache / mass effect mild and lesion non-enhancing: hold corticosteroids for now; reserve dexamethasone for symptomatic edema or peri-operatively.\r\n- Formal neuropsychological evaluation to baseline executive and social-cognitive deficits; counsel family on the organic basis of the behavioral change; assess decision-making capacity.\r\n\r\nDecision-support documentation only; does not constitute a diagnosis.",
+   "oneLiner": "47M with first generalized seizure and orbitofrontal behavioral syndrome from nonenhancing left orbitofrontal IDH-mutant grade 2 astrocytoma favored.",
+   "nAnalyzed": 54,
+   "nCited": 37,
+   "findings": [
+    {
+     "title": "Adult IDH-mutant low-grade astrocytoma care spans resection, RT/alkylator therapy, and IDH inhibition",
+     "body": "Adult \u201clow-grade\u201d glioma largely maps to IDH-mutant astrocytoma or oligodendroglioma, and IDH-mutant astrocytoma is organized as a single molecular entity across CNS WHO grades, with clinical behavior shaped by IDH1/2, ATRX, and TP53 lineage alterations plus later malignant-transformation events such as CDKN2A/B homozygous deletion. The management framework consists of surgery followed in most IDHm-glioma cases by XRT and chemotherapy; standard therapies also include maximal safe resection, involved-field radiotherapy, and alkylating chemotherapy, with brain-penetrant IDH inhibition emerging as a therapeutic advance. A large contemporary cohort complicates the timing signal for postoperative radiation: early adjuvant XRT was associated with shorter overall survival while time to next intervention was similar, including across high-risk strata. For this patient\u2019s seizure-presenting, nonenhancing left orbitofrontal/gyrus rectus IDH-mutant astrocytoma, the evidence is molecularly aligned but not location-specific.",
+     "bullets": [
+      "Vorasidenib has recent FDA approval for grade 2 IDH-mutant astrocytomas and oligodendrogliomas.",
+      "Retrospective adult IDHm-glioma cohort: 450 eligible patients; mean age 39.7 years; 41% female; grade 2 or 3 gliomas; 2 academic centers; between 2007 and 2022.",
+      "Adjuvant XRT exposure: 47.1% received XRT within 3 months of diagnosis and before progression."
+     ],
+     "strength": "low",
+     "sources": 4
+    },
+    {
+     "title": "Orbitofrontal/gyrus rectus access: preserved function alongside vascular/hemorrhagic morbidity",
+     "body": "For anatomy closest to this patient\u2019s left orbitofrontal/gyrus rectus tumor, published cases describe complete or near-complete resection through anterior subfrontal/frontobasal corridors with preserved day-to-day function rather than new focal deficits , and the dominant inferior frontal/orbitofrontal case used subpial dissection and cortical-sulcal landmarks aimed at preserving frontal language-related white-matter tracts. In the broader supraorbital surgical series for inferior frontal, anterior skull base, and parasellar lesions, morbidity was concentrated in delayed intracerebral hemorrhage and vascular-injury infarction, framing the main reported perioperative morbidity pattern for orbitofrontal-region access. This evidence overlaps with the present left-sided IDH-mutant astrocytoma by frontobasal/orbitofrontal location and seizure presentation, while the patient\u2019s baseline orbitofrontal behavioral syndrome makes cognitive/behavioral outcomes a key case-specific morbidity domain.",
+     "bullets": [
+      "Dominant inferior frontal/orbitofrontal glioma case: subtotal-near-total resection (>95% estimated volume) with maintained preoperative motor function/baseline expressive aphasia and no new neurological deficits.",
+      "Left gyrus rectus WHO grade II oligodendroglioma case: lesion 4.4 \u00d7 1.9 \u00d7 2.2 cm; transglabellar subfrontal approach achieved uneventful gross-total resection.",
+      "Reported morbidity in the supraorbital series comprised 2 cases of morbidity: one case of delayed intracerebral hemorrhage and one case of infarction due to vascular injury."
+     ],
+     "strength": "very_low",
+     "sources": 3
+    },
+    {
+     "title": "Greater resection extent tracks with longer survival and delayed malignant progression",
+     "body": "Volumetric IDH-mutant LGG data converge that higher extent of resection and smaller postoperative residual track with longer overall and progression-free survival, with the astrocytoma subgroup showing particular sensitivity to small residual disease. Functional-based resection series in IDH-mutant LGG add an onco-functional dimension: more complete and supratotal resections correlate with longer survival while maintaining functional status. Corpus-callosum IDH-mutant grade 2 data specifically link residual disease in the involved structure with shorter survival, while insular IDH-mutant grade 2 data demonstrate high-EOR functional-based surgery in another constrained network. For this patient\u2019s left orbitofrontal/gyrus rectus presentation after a first generalized seizure, these data bear most directly on tumor-control consequences of EOR.",
+     "bullets": [
+      "In IDH-mutant grade 2 glioma, the discovery cohort included 392 patients, OS results were validated in two external cohorts (n = 365), and propensity score analysis used combined cohorts (n = 757); EOR \u2265 75% improved OS, and EOR beginning at 80% improved progression-free survival.",
+      "In 326 surgically treated hemispheric WHO grade II LGG patients, 43 deaths occurred (13.2%; median follow-up 5.4 years); increasing postoperative volume was associated with worse OS (HR 1.02 per cm3; 95% CI 1.00-1.03; p = 0.016), PFS (HR 1.01 per cm3; 95% CI 1.00-1.02; p = 0.001), and MPFS (HR 1.01 per cm3; 95% CI 1.00-1.02; p = 0.035)."
+     ],
+     "strength": "very_low",
+     "sources": 6
+    },
+    {
+     "title": "IDH-lineage and CDKN2A/B define astrocytoma risk",
+     "body": "In IDH-mutant diffuse astrocytoma, molecular risk stratification is structured by early lineage-defining IDH1/2, ATRX, and TP53 alterations, with later malignant-transformation biology linked to CDKN2A/B homozygous deletion; this framework fits a supratentorial left orbitofrontal/gyrus rectus tumor favored to be WHO grade 2. IDH mutations carry the greatest prognostic significance among adult glioma markers, while CDKN2A deletion in IDH-mutant astrocytoma marks highest-grade biology. MGMT promoter methylation adds treatment-response and prognostic information, predicting temozolomide response and acting as an independent favorable OS prognosticator in a primary IDH-mutant grade 4 astrocytoma cohort. For an orbitofrontal, nonenhancing astrocytoma phenotype, the T2/FLAIR mismatch sign supports the IDH-mutant, 1p/19q non-codeleted astrocytoma class, and supratentorial IDH-mutant astrocytomas show more frequent ATRX loss and MGMT promoter methylation than infratentorial cases.",
+     "bullets": [
+      "In 67 IDH-mutant primary glioblastomas/astrocytoma IV, median OS was 39.4 months of 64 cases and median PFS was 25.9 months of 57 cases; G-CIMP-high status and MGMT promoter methylation were independent good prognosticators for OS.",
+      "In 128 consecutive adult patients with newly diagnosed astrocytoma, IDH-mutant, WHO grade 4, homozygous CDKN2A/B deletion was an independent negative prognosticator of OS.",
+      "In a glioblastoma cohort reclassified by WHO criteria, multifactor analysis found MGMT promoter methylation, IDH1/2 mutation, and CDKN2A deletion independently associated with OS."
+     ],
+     "strength": "very_low",
+     "sources": 7
+    },
+    {
+     "title": "RT plus PCV extends survival in high-risk IDH-mutant low-grade glioma",
+     "body": "Postoperative RT followed by PCV has the most direct randomized evidence among these postoperative approaches for high-risk WHO grade II glioma, with long-term RTOG 9802 follow-up showing a large overall-survival advantage despite frequent salvage chemotherapy after RT alone . In the molecularly profiled subset, the PFS and OS advantage was concentrated in IDH-mutant tumors, including the IDH-mutant/non-codeleted subgroup that maps most closely to astrocytoma, IDH-mutant, WHO grade 2 . For this 47M with a nonenhancing left orbitofrontal/gyrus rectus IDH-mutant grade 2 astrocytoma favored, the evidence is anatomically nonspecific but biologically relevant ; long-survivorship data also link combined PCV-RT exposure with delayed neurocognitive toxicity, pertinent to an orbitofrontal behavioral presentation",
+     "bullets": [
+      "In successfully profiled eligible RTOG 9802 patients (n = 106/251), IDH-mutant/non-codeleted tumors had longer PFS with PCV (HR, 0.32; P = .003) and OS (HR, 0.38; P = .013).",
+      "IDH-mutant/codeleted tumors also had longer PFS with PCV (HR, 0.13; P < .001) and OS (HR, 0.21; P = .029).",
+      "Modeled RTOG 9802 outcomes yielded 9.94 QALYs for RT+PCV vs 5.17 for RT alone, an incremental benefit of 4.77 quality-adjusted life-years at an incremental cost of $48635."
+     ],
+     "strength": "very_low",
+     "sources": 4
+    },
+    {
+     "title": "Vorasidenib prolongs postoperative control in IDH-mutant grade 2 glioma",
+     "body": "In postoperative residual or recurrent, nonenhancing IDH-mutant low-grade glioma after surgery alone, oral brain-penetrant dual mutant IDH1/2 inhibition with vorasidenib prolonged radiographic disease control and delayed the next anticancer intervention versus placebo. The mechanism is directly tied to this tumor\u2019s IDH-mutant profile: vorasidenib inhibits both mutant IDH1 and IDH2 enzymes and is designed for brain penetration. Regulatory summaries record US approval after surgery, including biopsy, subtotal resection, or gross total resection, for susceptible IDH1 or IDH2-mutant grade 2 astrocytoma or oligodendroglioma. For this left orbitofrontal/gyrus rectus nonenhancing tumor, the evidence aligns by grade, IDH-mutant biology, and postoperative residual-disease context rather than by a lobe-specific cohort.",
+     "bullets": [
+      "INDIGO assigned 331 patients to vorasidenib (168 patients) or placebo (163 patients).",
+      "Radiographic progression-free survival favored vorasidenib: hazard ratio for disease progression or death, 0.39; 95% confidence interval [CI], 0.27 to 0.56; P<0.001.",
+      "Time to the next anticancer intervention favored vorasidenib: hazard ratio, 0.26; 95% CI, 0.15 to 0.43; P<0.001.",
+      "Treatment schedule was oral vorasidenib (40 mg once daily) or matched placebo in 28-day cycles."
+     ],
+     "strength": "very_low",
+     "sources": 4
+    },
+    {
+     "title": "Amino-acid PET reveals metabolic hot spots beyond nonenhancing MRI",
+     "body": "Pre-treatment [18F]FET PET in newly diagnosed IDH-mutant glioma links higher uptake with higher CNS WHO grade, while also showing substantial overlap across grades. In grade 2 adult-type diffuse gliomas, FET uptake differs by molecular lineage and, within astrocytoma lacking adjuvant therapy, higher uptake tracks with shorter progression-free survival. Nonenhancing MRI can still contain metabolically active tumor: a PET/MR oligodendroglioma series separated nonenhancing grade 2 tumors into low- and high-uptake strata, with recurrence concentrated in the high-uptake group. For this patient\u2019s nonenhancing left orbitofrontal/gyrus rectus, IDH-mutant astrocytoma-favored lesion, these data are most relevant to metabolic characterization and high-uptake subregion definition, with the closest nonenhancing evidence partly extrapolated from oligodendroglioma.",
+     "bullets": [
+      "In 147 newly diagnosed IDH-mutant gliomas, dynamic [18F]FET data were available in 91/147 tumours (61.9%); WHO grade 2\u20133 gliomas showed later peaks (17.5\u201335 min)."
+     ],
+     "strength": "very_low",
+     "sources": 3
+    },
+    {
+     "title": "Frontal IFOF mapping links orbitofrontal anatomy with resectability and fluency outcomes",
+     "body": "In language-eloquent glioma resections, frontal-lobe white-matter tract segments, including the frontal IFOF, showed near-complete resectability, aligning anatomically with this patient\u2019s left orbitofrontal/gyrus rectus tumor and its frontal subcortical neighborhood , while lesion-disconnection evidence links the left frontal IFOF to phonemic fluency through early follow-up and places temporal IFOF involvement more in the semantic-fluency domain. Awake DES is described as the intraoperative mapping gold standard for language networks, typically integrated with ECoG and preoperative fMRI; tractography-based approaches such as CSD/DTI delineate eloquent tract interfaces and provide a mapping pathway when awake testing is infeasible. A left frontal low-grade glioma case with left-hemisphere language dominance illustrates that highly selective postoperative language-visual dissociations can occur after awake tumor resection, a pattern anatomically relevant to a dominant-side frontal glioma presenting with behavioral-cognitive change.",
+     "bullets": [
+      "In a tractography/disconnection cohort, 42 right-handed patients included 26 male patients with mean age = 52.5 years, SD=\u00b113.3; surgery was awake in 54.8% and asleep in 45.2%, with low-grade glioma in 16.7% and high-grade-glioma in 83.3%.",
+      "A CSD-based eloquent white-matter tract reconstruction series reviewed 20 patients, comprising 15 brain tumors and 5 functional disorders; CSD reconstructed CST, AF, IFOF, OT, and DRTT depending on location, and GTR was achieved in all tumor patients without new neurological deficits.",
+      "The UCSF tractography methodology had been routinely implemented for preoperative mapping in more than 300 awake brain tumor resections; the language-correlation subcohort analyzed 35 subjects pre- and postsurgery."
+     ],
+     "strength": "very_low",
+     "sources": 7
+    }
+   ],
+   "structures": [
+    "Left Accumbens",
+    "ctx-lh-lateralorbitofrontal",
+    "Left-Accumbens-area",
+    "Left-Caudate",
+    "Left Caudate",
+    "WM Inferior occipito-frontal fascicle",
+    "Frontal Orbital Cortex",
+    "Left Putamen"
+   ],
+   "preview": "glioma"
+  },
+  {
+   "key": "mets-melanoma",
+   "label": "Metastases",
+   "blurb": "Melanoma brain metastases \u00b7 76M",
+   "pathway": "metastasis",
+   "age": "76",
+   "sex": "male",
+   "vignette": "Patient:  76-year-old man\r\nReason for consultation:  Brain metastases from metastatic cutaneous melanoma\r\nReferring service:  Medical oncology / inpatient medicine\r\nPerformance status:  KPS 70\r\nSteroids:  Dexamethasone, started prior to consultation\r\nHISTORY OF PRESENT ILLNESS\r\nThe patient is a 76-year-old man with a history of metastatic cutaneous melanoma, referred to Radiation Oncology after MRI brain demonstrated numerous bilateral enhancing intracranial lesions concerning for brain metastases.\r\nHe initially presented with progressive headache and mild confusion. Family noted he was more forgetful, slower to respond, and less steady than baseline. He also reported mild left-hand clumsiness with difficulty performing fine-motor tasks. He denied witnessed seizure, loss of consciousness, new speech difficulty, or acute vision loss.\r\nMRI brain showed extensive bilateral enhancing metastatic disease, including a dominant lesion with associated vasogenic edema. He was started on dexamethasone with partial improvement in headache and mental status. At consultation he remains ambulatory but with reduced functional reserve (KPS 70) and is accompanied by family, who report he performs some activities independently but is not at his cognitive baseline.\r\nONCOLOGIC HISTORY\r\nKnown cutaneous melanoma with metastatic disease. Available records note metastatic melanoma, but the complete prior treatment history is not available at the time of consultation. BRAF mutation status is not documented in the available chart. Outside pathology and systemic therapy records are pending. No documented prior cranial radiation.\r\nPAST MEDICAL HISTORY\r\n\u2022\tMetastatic cutaneous melanoma\r\n\u2022\tAdditional past medical history not fully available in current records\r\nPRIOR CANCER-DIRECTED THERAPY\r\n\u2022\tPrior treatment details incomplete in available records\r\n\u2022\tNo documented prior whole-brain radiation therapy or stereotactic radiosurgery\r\n\u2022\tBRAF status undocumented; prior immunotherapy or targeted-therapy exposure not confirmed\r\nCURRENT MEDICATIONS\r\n\u2022\tDexamethasone, started for symptomatic cerebral edema\r\n\u2022\tFull medication reconciliation pending per inpatient list\r\nALLERGIES\r\nNot documented in available records.\r\nREVIEW OF SYSTEMS\r\nPositive for headache, mild confusion, fatigue, and left-hand clumsiness. Negative for witnessed seizure, loss of consciousness, acute focal weakness, aphasia, or new visual field deficit by history.\r\nPHYSICAL EXAMINATION\r\nGeneral:  Elderly man, awake, cooperative, in no acute distress. KPS 70.\r\nNeurologic:  Alert and conversational. Mild inattention and slowed responses during interview. Cranial nerves grossly intact on bedside exam. Strength grossly intact in bilateral upper and lower extremities. Mild left-hand clumsiness with impaired fine-motor coordination. No clear aphasia. Ambulatory with cautious gait.\r\nOther systems:  Noncontributory for radiation treatment decision-making based on available documentation.\r\nIMAGING\r\nMRI brain with contrast.  Numerous bilateral enhancing intracranial lesions consistent with metastatic disease. Segmentation identifies approximately 48 enhancing lesions distributed bilaterally (~26 left, ~22 right); approximately 30 measure under 5 mm. There is involvement of both supratentorial brain and the posterior fossa. A dominant lesion measures approximately 4.2 cm\u00b3. Total segmented enhancing tumor-core volume is approximately 9.7 cm\u00b3, with associated vasogenic edema of approximately 99 cm\u00b3.\r\nEnhancing tissue is intrinsically T1 hyperintense, approximately twice the signal intensity of brain on T1-weighted imaging, compatible with melanoma metastases containing melanin and/or hemorrhagic products.\r\nLesion count and distribution are based on segmentation and require confirmation on source images, including pre- and post-contrast T1, FLAIR, susceptibility-weighted, and thin-slice volumetric sequences.\r\nASSESSMENT\r\n76-year-old man with metastatic cutaneous melanoma, BRAF status undocumented, now with extensive bilateral brain metastases. Imaging shows approximately 48 enhancing intracranial lesions including numerous sub-5 mm lesions, posterior-fossa involvement, and a dominant 4.2 cm\u00b3 lesion with substantial vasogenic edema (enhancing core ~9.7 cm\u00b3; edema ~99 cm\u00b3). He is symptomatic with headache, mild confusion, and left-hand clumsiness; KPS ~70; partial symptomatic improvement on dexamethasone.\r\nThe case is clinically complex given the high intracranial lesion count, bilateral distribution, posterior-fossa involvement, dominant symptomatic lesion, significant edema burden, intrinsic T1-bright melanoma signal, incomplete systemic-therapy history, and undocumented BRAF status.\r\nPLAN / RECOMMENDATIONS\r\n\u2022\tReview MRI brain source images with neuroradiology to confirm lesion count, enhancement pattern, hemorrhagic/melanin components, edema extent, and posterior-fossa disease burden.\r\n\u2022\tObtain outside oncology records: original melanoma pathology, BRAF mutation status, prior systemic-therapy history, and current extracranial disease status.\r\n\u2022\tContinue dexamethasone for symptomatic edema; taper to be coordinated with the treating team based on symptoms.\r\n\u2022\tDiscuss at multidisciplinary tumor board with Radiation Oncology, Medical Oncology, Neurosurgery, and Neuroradiology.\r\n\u2022\tEvaluate candidacy for local therapy to the dominant symptomatic lesion versus multi-target stereotactic radiosurgery versus whole-brain radiotherapy.\r\n\u2022\tCoordinate with Medical Oncology regarding systemic-therapy options once BRAF status and prior treatment history are confirmed.\r\n\u2022\tNo prior cranial radiation documented in available records.",
+   "oneLiner": "76M with metastatic cutaneous melanoma, BRAF undocumented, with ~48 bilateral brain metastases and vasogenic edema, symptomatic, on dexamethasone.",
+   "nAnalyzed": 57,
+   "nCited": 32,
+   "findings": [
+    {
+     "title": "Extensive symptomatic melanoma brain metastases map to local therapy and WBRT pathways",
+     "body": "For extensive brain-metastatic disease, contemporary consensus framing links lesion burden and performance status to modality: SRS or surgery appears in limited-lesion settings, whereas WBRT is the radiotherapy approach described for extensive disease, and poor performance status is paired with symptom-relief and quality-of-life priorities. ASCO-SNO-ASTRO separates symptomatic disease from asymptomatic deferral scenarios, with symptomatic brain metastases paired with local therapy irrespective of systemic regimen and larger mass-effect lesions associated with greater surgical benefit than multiple metastases or uncontrolled systemic disease. Melanoma-specific CNS management also includes systemic immunotherapy and BRAF/MAPK-targeted therapy among current approaches, relevant to this cutaneous melanoma case because BRAF status is undocumented while symptoms and edema are already present. Melanoma radiotherapy evidence remains concentrated in non-randomized treatment series and disease cohorts, leaving broad brain-metastasis documents as the main scaffold for this patient\u2019s extensive bilateral MBM pattern.",
+     "bullets": [
+      "Asymptomatic/no-systemic-option ASCO-SNO-ASTRO SRS thresholds were one to four unresected brain metastases for SRS alone and one to two resected brain metastases for surgical-cavity SRS alone.",
+      "WBRT cognitive-protection threshold in ASCO-SNO-ASTRO tied memantine and hippocampal avoidance to no hippocampal lesions and 4 months or more expected survival.",
+      "Melanoma RT evidence base: 112 studies; Three were randomized controlled trials; only one was sufficiently large; treatment-choice criteria were reported in only 32 studies."
+     ],
+     "strength": "low",
+     "sources": 4
+    },
+    {
+     "title": "Cumulative intracranial volume concentrates focal-treatment toxicity",
+     "body": "In modern SIMT SRS/fSRS for multiple intracranial tumors, high-grade CNS toxicity remained uncommon overall, but larger tumor volume tracked with higher toxicity and poorer local control; off-isocenter distance did not independently worsen either endpoint , aligning with multiple-metastasis SRS literature in which cumulative intracranial tumor volume, not lesion count alone, relates to outcomes and mean normal-brain dose. For this patient\u2019s ~48 bilateral edematous melanoma brain metastases on dexamethasone, the available morbidity signal maps most closely to volume-dependent focal-radiation exposure, with surgery-specific evidence coming from anatomically narrower large-lesion series. Large or symptomatic metastases have been studied within a surgery-versus-SRS frame, and upfront SRS for large cerebellar metastases rarely led to later neurosurgical intervention. WBRT plus simultaneous integrated boost has also been reported as tolerable in multiple brain metastases outside surgery and/or SRS candidacy, while ongoing BM protocols track toxicity, quality of life, imaging changes, and response duration as key morbidity endpoints.",
+     "bullets": [
+      "SIMT SRS/fSRS cohort: 429 patients with 3,039 intracranial tumors; larger tumor volume correlated with higher toxicity [HR 1.088 (95% CI 1.056-1.121), p < 0.001] and worse local control [HR 1.017 (95% CI 1.000-1.034), p = 0.047].",
+      "Same cohort: 1-year local control was 95.1% (95% CI 94.0 - 96.1) and freedom from grade \u22653 toxicity was 98.4% (95% CI 97.8 - 99.0).",
+      "Multiple-metastasis SRS practice review: 10 or more tumors are routinely treated with SRS alone at most academic medical centers; cumulative tumor volumes of 25 cm3 are routinely treated in a single SRS session even with \u226510 metastases."
+     ],
+     "strength": "very_low",
+     "sources": 6
+    },
+    {
+     "title": "SRS-to-many: higher target dose with lower normal-brain exposure",
+     "body": "For a patient with extensive bilateral melanoma brain metastases and symptomatic edema on dexamethasone, the most relevant SRS-to-many literature frames feasibility around total intracranial tumor volume and CNS dose-sparing rather than lesion count alone , with dosimetric comparisons in double-digit metastases showing higher tumor biologically effective dose from SRS and markedly lower dose to normal brain structures than conventional WBRT Comparative cohorts in multiple-metastasis populations show longer survival with SRS-based approaches than WBRT, while intracranial progression control differs across studies: one matched analysis showed longer icPFS with WBRT, whereas a modern LINAC single-isocenter SRS cohort showed only a non-significant OS separation. For this ~48-lesion presentation, the evidence is adjacent rather than exact: it informs the SRS-to-many versus WBRT trade-off through lesion-count-expanded SRS series, conventional WBRT comparators, and review-level neurocognition/quality-of-life concerns for WBRT.",
+     "bullets": [],
+     "strength": "low",
+     "sources": 5
+    },
+    {
+     "title": "Steroid tapering and symptom resolution precede ipilimumab/nivolumab activity in melanoma brain metastases",
+     "body": "In melanoma brain metastases, standard steroid management compromises the efficacy of otherwise efficacious immunotherapeutic approaches. A disseminated melanoma case with multiple hemorrhagic brain metastases started ipilimumab plus nivolumab after cerebral edema improved with corticosteroid tapering and the patient became asymptomatic, followed by initial benefit before later progression. For this patient with extensive bilateral brain metastases, vasogenic edema, neurologic symptoms, and dexamethasone exposure, the closest evidence centers on the interaction between steroids, symptom control, and intracranial immunotherapy activity.",
+     "bullets": [
+      "Melanoma brain metastases develop in 40% of melanoma patients.",
+      "The ipilimumab/nivolumab case used ipilimumab 3\u2009mg/kg q3w \u00d7 4 and nivolumab 1\u2009mg/kg q3w \u00d7 4 after corticosteroid tapering.",
+      "The reported ipilimumab/nivolumab case involved a 62-year-old man with disseminated melanoma initially staged pT2aN0M0, AJCC stage IB, 8th edition AJCC."
+     ],
+     "strength": "very_low",
+     "sources": 3
+    },
+    {
+     "title": "BRAF V600\u2013mutant brain metastases show intracranial dabrafenib\u2013trametinib activity",
+     "body": "In BRAF V600\u2013mutant melanoma brain metastases, dabrafenib plus trametinib produced intracranial responses across treatment-naive, previously locally treated, non-V600E, and symptomatic cohorts; the symptomatic cohort is the closest COMBI-MB match to this patient\u2019s steroid-requiring intracranial presentation . Because this patient\u2019s BRAF status is undocumented, the targeted-therapy evidence is conditional on a BRAF V600 alteration; both the COMBI-MB trial framework and the real-world DESCRIBE Italy dataset were restricted to BRAFV600-mutant melanoma . Baseline corticosteroid exposure\u2014directly relevant to current dexamethasone\u2014tracked with lower intracranial response and shorter PFS in a COMBI-MB post hoc model, making steroid-treated symptomatic disease a less favorable subgroup within the same targeted-therapy dataset",
+     "bullets": [
+      "COMBI-MB evaluated oral dabrafenib (150 mg twice per day) plus oral trametinib (2 mg once per day) across 32 hospitals and institutions; 125 patients were enrolled, with a median follow-up of 8\u00b75 months (IQR 5\u00b75-14\u00b70).",
+      "Baseline corticosteroids in COMBI-MB were associated with lower ICRR [39% vs. 63%; OR, 0.323; 95 % confidence interval (CI), 0.105-0.996; P = 0.049] and shorter PFS (HR, 1.93; 95% CI, 1.06-3.51; P = 0.031).",
+      "COMBI-MB treatment-related serious adverse events included pyrexia for dabrafenib (eight [6%] of 125 patients) and decreased ejection fraction for trametinib (five [4%]); grade 3 or worse adverse events included pyrexia (four [3%] of 125) and headache (three [2%])."
+     ],
+     "strength": "very_low",
+     "sources": 4
+    },
+    {
+     "title": "SRS\u2013immunotherapy combinations show measurable radionecrosis risk with lesion-size dependence",
+     "body": "Biopsy-confirmed radionecrosis after SRS in melanoma/NSCLC brain metastases occurs in the setting of frequent immunotherapy exposure, and concurrent SRS with dual immune-checkpoint inhibition is associated with symptomatic radionecrosis. Melanoma-focused retrospective series show broadly similar symptomatic radionecrosis rates across concurrent versus nonconcurrent immunotherapy/cranial RT sequencing, while larger lesion and isodose metrics separate higher-radionecrosis-risk treated lesions. For this 76-year-old with ~48 bilateral melanoma brain metastases, vasogenic edema, symptoms, and dexamethasone exposure, the SRS\u2013immunotherapy evidence is disease-relevant but less direct for very high intracranial lesion burden and active edema/steroid dependence. WBRT-era melanoma data with many patients having multiple brain metastases also document post-treatment radionecrosis, hemorrhage, and memory deficits, extending the toxicity context beyond focal SRS.",
+     "bullets": [
+      "Two-year RN rates increased with TV \u2265 0.3\u2009cc (16% vs 1.1% p\u2009=\u20090.001), MTD \u2265 1.3\u2009cm (19.1% vs 1.8% p\u2009<\u20090.003), and IDV \u2265 1.5\u2009cc (19.6% vs 1.7% p\u2009=\u20090.001)."
+     ],
+     "strength": "very_low",
+     "sources": 4
+    },
+    {
+     "title": "Steroid-dependent symptomatic melanoma brain metastases show lower intracranial immunotherapy response with durable benefit in responders",
+     "body": "In the most directly matched cohort\u2014cutaneous melanoma with symptomatic melanoma brain metastases requiring corticosteroids\u2014ipilimumab plus nivolumab produced responses in a minority overall, but responders could have prolonged survival , and this patient\u2019s symptomatic bilateral brain edema on dexamethasone aligns more closely with that steroid-dependent population than with asymptomatic trial populations. Across broader melanoma brain metastasis immunotherapy literature, intracranial activity is higher in asymptomatic patients not requiring corticosteroids than in symptomatic or steroid-treated patients, making corticosteroid dependence a marker of lower expected intracranial response rather than a categorical exclusion from benefit. Glucocorticoids are used for edema-related neurologic symptoms, and their immunosuppressive properties provide a biologically plausible link between dexamethasone dependence and attenuated immunotherapy activity in brain metastases.",
+     "bullets": [
+      "Review-level synthesis: single-agent anti-CTLA4 or anti-PD1 produces durable responses in 15%-20% of melanoma brain metastases when patients are asymptomatic and do not require corticosteroids; anti-CTLA4 plus anti-PD-1 produces intracranial response in over 50% of asymptomatic patients and durable responses of 20% in symptomatic patients or those on steroids."
+     ],
+     "strength": "very_low",
+     "sources": 4
+    },
+    {
+     "title": "Melanoma GPA separates survival in brain-metastatic melanoma",
+     "body": "In the modern MBM update, higher Karnofsky Performance Status, fewer MBMs, absence of extracranial metastases, lower serum lactate dehydrogenase, and no immunotherapy before MBM formed the updated Melanoma GPA; this directly links intracranial lesion burden and systemic disease biology to survival stratification. For this patient with ~48 bilateral brain metastases, vasogenic edema, symptoms, and dexamethasone exposure, the very high number of MBMs aligns with an adverse GPA domain, while BRAF status is undocumented and other score inputs such as KPS, LDH, and extracranial status are not fully specified. Across RT and SRS cohorts, GPA- and melanoma-specific GPA models also separated overall survival, and BRAF status plus cumulative intracranial tumor volume added prognostic information when known. The scale functions as a prognosis-stratification framework rather than a brain-count-only rule, with extensive bilateral disease most relevant as one adverse component among performance, extracranial, LDH, treatment-history, and molecular variables.",
+     "bullets": [
+      "Contemporary RT validation cohort: all patients n = 59 and follow-up imaging n = 47; GPA 0-1.0 versus 1.5-4.0 associated with OS (p = 0.002), and GPA 0-1.0 associated with decreased IPFS (p = 0.011).",
+      "Integrated SRS ds-GPA: 331 melanoma BM patients with known BRAF mutation status, validated in an independent cohort of 174 patients; incorporated BRAF mutation status, KPS, number of metastases, and CITV."
+     ],
+     "strength": "very_low",
+     "sources": 5
+    }
+   ],
+   "structures": [
+    "WM Superior longitudinal fascicle",
+    "GM Primary somatosensory cortex BA3a",
+    "GM Primary somatosensory cortex BA3b",
+    "GM Inferior parietal lobule PFcm",
+    "GM Inferior parietal lobule PFt",
+    "GM Inferior parietal lobule PFop",
+    "GM Anterior intra-parietal sulcus hIP1",
+    "GM Superior parietal lobule 7PC"
+   ],
+   "preview": "mets-melanoma"
+  },
+  {
+   "key": "stroke",
+   "label": "Stroke",
+   "blurb": "Deep right striatocapsular infarct",
+   "pathway": "ischemic_stroke",
+   "age": "54",
+   "sex": "female",
+   "vignette": "Deep Right Striatocapsular Infarct \u2014 Not a Lacune\r\nSpecialty: Neurology\r\nRarity tier: Common presentation (single deep MCA-territory infarct)\r\nCase ID: STROKE-0180\r\n\r\nSTATUS: Synthetic clinical vignette \u2014 illustrative, written to a real de-identified scan set. Label as illustrative when shared.\r\n \r\nAxial MIP and two DWI slices with mask overlay \u2014 single deep right striatocapsular infarct (R on left).\r\nScan set\r\nDWI (b=1000) with derived ADC and 3D FLAIR (your DWI + ADC + FLAIR ideal), plus the expert lesion mask. Sub-acute window typical of this dataset.\r\nImaging findings (from the expert mask, confirmed on DWI)\r\nA single, confluent focus of restricted diffusion \u2014 ~19 cm\u00b3 in the right deep MCA (lenticulostriate) territory, involving the basal ganglia / internal capsule / corona radiata region, in one territory with no cortical or contralateral component.\r\nThe size and confluent deep distribution describe a striatocapsular infarct \u2014 distinct from a small (<1.5 cm) lacune. Laterality/territory read from the mask in native space; confirm on the source scans. Right hemisphere taken as non-dominant pending handedness.\r\nClinical vignette\r\nPatient. 54-year-old woman (age and sex per the scan metadata).\r\nPresentation. Sudden dense weakness of the left face, arm and leg with slurred speech, noticed on waking and stable since. Able to converse. No headache.\r\nHistory. Hypertension and type 2 diabetes; not on anticoagulation. Occasional palpitations, never investigated.\r\nExamination. Dense left hemiparesis (face/arm/leg) with mild left-sided sensory loss and dysarthria; subtle left-sided inattention. Comprehension and speech content intact. The motor deficit is striking relative to the lesion's modest size.\r\nImaging impression. Acute/early-subacute right striatocapsular (deep MCA) infarct; pattern more in keeping with transient proximal MCA occlusion than with small-vessel lacunar disease.\r\nThe care-changing nuance\r\nThis one looks straightforward \u2014 a deep subcortical stroke \u2014 and that's exactly where it gets mislabeled:\r\n1.\tA striatocapsular infarct is not a lacune. It's too large and spans multiple lenticulostriate perforators, which means it usually reflects a transient proximal MCA (M1) occlusion with good collaterals \u2014 an embolic or large-vessel mechanism \u2014 not intrinsic small-vessel disease. Calling it 'lacunar' sends the workup and prevention down the wrong path.\r\n2.\tThe mechanism changes the workup and secondary prevention. It mandates vessel imaging (carotid and intracranial) and a cardioembolic screen, including prolonged rhythm monitoring for paroxysmal atrial fibrillation (the unstudied palpitations are a lead). If a cardioembolic or large-artery source is found, prevention shifts from antiplatelet toward anticoagulation or carotid intervention \u2014 and missing it risks an early recurrence.\r\n3.\tSmall lesion, large deficit \u2014 eloquent location. The descending motor fibres are densely packed in the internal capsule, so a deep lesion produces a hemiparesis far out of proportion to its volume. The functional stakes (and rehab needs) are higher than the size suggests, and non-dominant inattention can blunt the patient's own awareness of the deficit.\r\nWhat gets missed: the reflex is 'deep, subcortical, small-vessel \u2014 antiplatelet and risk factors.' Recognising the striatocapsular pattern reframes it as a proximal-source stroke that needs vessel and cardiac evaluation, which is what actually changes treatment.",
+   "oneLiner": "54-year-old woman with acute/early-subacute right striatocapsular deep MCA infarct causing dense left hemiparesis and dysarthria.",
+   "nAnalyzed": 61,
+   "nCited": 43,
+   "findings": [
+    {
+     "title": "Acute MCA infarct care \u2014 strongest evidence centers on early reperfusion, aspirin, stroke-unit care, and malignant-edema surgery",
+     "body": "Acute ischemic stroke treatment frameworks are organized by presentation time, imaging type, and thrombectomy availability; reperfusion therapies have altered the natural course of the disease, and advanced imaging has partly expanded reperfusion assessment The strongest evidence tier in acute ischemic stroke spans organized stroke-unit care, intravenous thrombolysis, early aspirin, and decompressive surgery for malignant hemispheric infarction, linking organized acute care, thrombolytic/antiplatelet treatment, and mass-effect control Very-early thrombolysis data and large-core thrombectomy trial criteria make symptom timing, CT/perfusion-core extent, and distal ICA/M1 large-vessel occlusion status the main descriptors for relating reperfusion evidence to an MCA infarct For this patient\u2019s right striatocapsular MCA infarct with dense hemiparesis and dysarthria, the anatomically closest edema evidence comes from MCA-territory and malignant hemispheric infarction cohorts in which swelling, intracranial pressure, and functional outcome are the tracked consequences",
+     "bullets": [
+      "Stroke-unit care, intravenous tissue plasminogen activator/systemic thrombolytic treatment within 4.5 h from symptom onset, aspirin within 48 h of stroke onset, and decompressive craniectomy for supratentorial malignant hemispheric cerebral infarction were the four class I evidence interventions in acute ischemic stroke.",
+      "Very-early thrombolysis evidence encompassed severe stroke and baseline CT early ischemic changes in more than one third of the middle cerebral artery territory when treatment began <3 hours from symptom onset.",
+      "SELECT 2 evaluates endovascular thrombectomy compared with medical management alone in distal ICA and MCA M1 large-vessel occlusion with large core on CT (ASPECTS: 3-5) or advanced perfusion imaging (rCBF<30% on CTP or ADC<620 on MRI: \u226550cc) and treatment within 0-24 hours from last known well.",
+      "A large MCA-territory infarction edema trial enrolls 68 patients with MCA-territory infarction (80-300 mL infarct volume or ASPECTS 1-5), who are not undergoing decompressive craniectomy; cerebral edema at 5-7 days is the primary outcome, with 90-day functional outcomes (mRS) and safety as secondary outcomes."
+     ],
+     "strength": "low",
+     "sources": 6
+    },
+    {
+     "title": "Antithrombotic and reperfusion contexts concentrate hemorrhagic-conversion risk",
+     "body": "In acute ischemic stroke occurring despite a DOAC, active anticoagulant effect is the cited mechanism for intracerebral bleeding concern with intravenous thrombolysis, and current criteria place most such presentations outside IVT eligibility. Across broader acute ischemic stroke cohorts, hemorrhagic transformation is a frequent complication with poorer outcome, is enriched after IV-tPA exposure, and tracks with anticoagulant use. Prospective atrial-fibrillation registry data found low symptomatic ICH rates across DOAC, VKA, and non-OAC groups after thrombolysis adjustment , while EVT randomized data placed symptomatic ICH signal on stroke severity, anticoagulant history, arrival glucose, and device-pass burden. For this patient\u2019s established right striatocapsular deep MCA infarct with dense hemiparesis and dysarthria, the directness is strongest for medication- and reperfusion-context bleeding risk and indirect for the striatocapsular location itself.",
+     "bullets": [
+      "IS-DOAC may occur in up to 6% of DOAC users annually; most acute IS-DOAC presentations are outside IVT eligibility under current criteria; the majority had a DOAC level of <50ng/mL only 24 hours after DOAC cessation.",
+      "Meta-analysis: 65 studies with 17,259 patients; overall HT prevalence 27%; overall PH prevalence 9%; HT associated with anticoagulants (OR 2.47).",
+      "DIRECT-MT: 633 patients; HT 261 (41.2%); sICH 34 (5.4%); PH 85 (13.4%); sICH predictors included baseline NIHSS adjusted OR, 1.09 [95% CI, 1.01-1.18] in EVT alone, and anticoagulant drugs adjusted OR, 3.75 [95% CI, 1.07-13.06], glucose adjusted OR, 1.19 [95% CI, 1.03-1.38], and >3 passes adjusted OR, 4.42 [95% CI, 1.36-14.32] in combination therapy."
+     ],
+     "strength": "very_low",
+     "sources": 4
+    },
+    {
+     "title": "Perfusion-defined salvageable tissue extends reperfusion selection",
+     "body": "Advanced CT perfusion or MRI mismatch imaging identifies ischemic-stroke patients with a small established infarct core and a larger threatened territory, extending reperfusion selection beyond early clock-based windows in MCA/anterior-circulation presentations. This tissue-based framework is descriptively relevant to a right striatocapsular deep MCA infarct with dense left hemiparesis and dysarthria because the evidence base is organized around MCA syndromes, anterior-circulation large-vessel occlusion, and imaging-defined core\u2013penumbra patterns. Across imaging-selected late-window AIS, tenecteplase improved excellent functional outcome, and a CTP-selected wake-up stroke cohort showed greater discharge NIHSS improvement after thrombolysis. For thrombectomy selection, CTP mismatch profiles stratified outcomes, while recanalization was still linked with functional independence in no-mismatch profiles, especially in younger patients and intermediate ASPECTS ranges.",
+     "bullets": [
+      "CT perfusion imaging can identify MCA-syndrome patients with an extensive ischemic area but only a small infarct area for urgent thrombectomy in up to 24 hours.",
+      "In no-CTP-mismatch thrombectomy patients, 110 (15%) of 724 met the no-mismatch profile; successful recanalization occurred in 66% (73) and was associated with 90-day functional independence (adjusted odds ratio, 7.33 [95% CI, 1.22-43.70]; P=0.03)."
+     ],
+     "strength": "very_low",
+     "sources": 6
+    },
+    {
+     "title": "Striatocapsular pattern tracks embolic and proximal MCA mechanisms",
+     "body": "Striatocapsular infarction shows mechanistic heterogeneity: cardiac emboli to the middle cerebral artery origin, carotid occlusive disease with embolic or haemodynamic contributions, proximal MCA abnormalities affecting multiple lateral striate origins, and angiographically normal cases with uncertain pathogenesis all appear in prospective pathophysiologic grouping. Coronal DWI distribution adds lesion-pattern discrimination: a DE-dominant striatocapsular pattern is linked with proximal embolic sources, while MCA disease produces a different dominant distribution. Across comparative cohorts, large striatocapsular infarcts align more with embolic, carotid, and cortical-infarct mechanisms than with lacunar small-vessel infarction, making this evidence directly relevant to a right striatocapsular deep MCA infarct causing dense left hemiparesis and dysarthria.",
+     "bullets": [
+      "A prospective striatocapsular infarction series followed 50 consecutive patients over a 10 yr period and identified 4 pathophysiological subgroups, including cardiac emboli to the MCA origin, carotid occlusive disease with presumed embolism and/or haemodynamic factors, proximal MCA abnormalities, and normal angiography with uncertain pathogenesis.",
+      "In a first-ever supratentorial infarct cohort, 15 patients (6%; 95% confidence interval 3-9%) had a large striatocapsular infarct; these infarcts had more potential cardioembolic source and significant carotid stenosis than lacunar infarction and resembled cortical infarction for pathogenesis.",
+      "In a 56-patient comparison, cardioembolic sources and artery-to-artery embolism were significantly more frequent in large striatocapsular infarcts than in lacunar infarcts."
+     ],
+     "strength": "very_low",
+     "sources": 7
+    },
+    {
+     "title": "Noncardioembolic stroke prevention \u2014 monotherapy has broad evidence, while DAPT benefit is early and minor-stroke based",
+     "body": "In noncardioembolic ischemic stroke, single-antiplatelet therapy with aspirin, clopidogrel, or aspirin/extended-release dipyridamole reduces recurrent ischemic stroke, while dual-antiplatelet superiority is described in minor acute stroke or high-risk TIA cohorts. The time-course evidence for aspirin-plus-P2Y12 dual therapy concentrates ischemic event reduction in the first treatment week, with bleeding risk elevated early and less favorable balance after that initial period. For this patient\u2019s dense left hemiparesis from a right striatocapsular deep MCA infarct, the directly matching evidence is the broader noncardioembolic ischemic-stroke monotherapy literature; the dual-antiplatelet trial evidence is less direct because it is anchored to minor stroke or high-risk TIA populations. Ticagrelor-based antiplatelet therapy in noncardioembolic acute ischemic stroke or TIA shows lower recurrent stroke than clopidogrel or aspirin in pooled randomized evidence, with study-level limitations from open-label designs or reporting gaps in several trials.",
+     "bullets": [
+      "DAPT increased major bleeding in weeks 1 and 2: week 1, 0.221% vs. 0.066%; RR = 2.48; 95% CI: 1.11-5.50; week 2, 0.139% vs 0.036%; RR = 3.27; 95% CI: 1.31-8.19."
+     ],
+     "strength": "low",
+     "sources": 5
+    },
+    {
+     "title": "AF-linked stroke recurrence falls with earlier DOAC timing",
+     "body": "When atrial fibrillation is found after acute ischaemic stroke, pooled randomized evidence links earlier DOAC initiation with fewer early composite cerebrovascular outcomes than later initiation, with symptomatic intracerebral haemorrhage remaining similar across timing groups , and a broader mixed-design meta-analysis points in the same direction for recurrent ischaemic stroke while showing comparable bleeding and mortality signals. A phase 2 adaptive trial across several start days within the post-stroke fortnight also favored earlier initiation times, although it did not isolate a clearly superior day. For this 54-year-old with an acute/early-subacute right striatocapsular deep MCA infarct and dense left hemiparesis, the evidence is most directly relevant if atrial fibrillation/flutter is detected; the trial populations were generally older and often mild-to-moderate, so infarct size, haemorrhagic transformation status, and clinical severity shape the case\u2013evidence match.",
+     "bullets": [
+      "Atrial fibrillation causes one-fifth of ischemic strokes, and another review estimated that about 13-26% of all acute ischaemic strokes are related to non-valvular atrial fibrillation."
+     ],
+     "strength": "low",
+     "sources": 5
+    },
+    {
+     "title": "High-intensity statins after ischemic stroke \u2014 better function and lower vascular-risk signal",
+     "body": "In ischemic stroke cohorts, immediate or high-intensity statin exposure is linked most consistently to better early functional outcome, with the functional signal varying by glycemic status in a large high-risk intracranial or extracranial atherosclerosis trial , while broader ASCVD literature supports intensive LDL-C lowering as a secondary-prevention strategy that includes atherothrombotic brain infarction within the ASCVD spectrum . For this 54-year-old woman with an acute/early-subacute right striatocapsular deep MCA infarct, the evidence is directly relevant to post-ischemic-stroke secondary prevention, although much of the outcome data comes from high-risk atherosclerosis, older AIS/TIA, coronary disease, or dialysis-after-AMI populations rather than striatocapsular infarcts specifically . A recurrent-stroke trial framework also treats LDL-C lowering intensity as an open comparative question in high-risk patients with recent stroke or TIA",
+     "bullets": [
+      "In T2DM patients on dialysis after AMI, moderate- to high-intensity statins were associated with lower non-fatal ischemic stroke risk: HR, .58; 95% CI .35-.98."
+     ],
+     "strength": "very_low",
+     "sources": 5
+    },
+    {
+     "title": "Deep motor-pathway integrity tracks hemiparesis recovery and rehabilitation gains",
+     "body": "In complete affected-hand weakness after anterior choroidal artery infarction through the posterior limb of the internal capsule, chronic motor recovery separated by corona-radiata extension and by preservation of hand motor evoked potentials. For this patient\u2019s acute right striatocapsular deep MCA infarct with dense left hemiparesis and dysarthria, this is adjacent deep corticospinal-pathway evidence rather than territory-identical evidence. Internal-capsule and basal-ganglia strokes are also part of the ataxic-hemiparesis spectrum, where balance and coordination remediation is challenging and long-term disability can be more substantial than the older lacunar-stroke framing implied. Rehabilitation signals converge around intensive, neuroplasticity-based practice: acute lacunar internal-capsule infarction improved over weeks with intensive physiotherapy in a case report, and chronic posterior-limb internal-capsule arm paresis improved across multiple arm-function measures after constraint-induced movement therapy paired with acupuncture. Broader stroke data add that early EEG interictal epileptiform discharges, admission severity, lesion extent, age, premorbid disability, and hemorrhagic type independently track poorer short-term functional outcome.",
+     "bullets": [
+      "A 40-year-old female with arm paresis after right posterior-limb internal-capsule infarction 2 years earlier received 1 hour of acupuncture before 5 hours of constraint-induced movement therapy for 12 weekdays; Modified Ashworth Scale, Fugl-Meyer Assessment, Action Research Arm Test, and Motor Activity Log substantially improved over the 1-year period."
+     ],
+     "strength": "very_low",
+     "sources": 5
+    }
+   ],
+   "structures": [
+    "Right Caudate",
+    "Right-Putamen",
+    "Right Putamen",
+    "Right-Caudate",
+    "WM Superior occipito-frontal fascicle",
+    "WM Uncinate fascicle",
+    "WM Inferior occipito-frontal fascicle",
+    "Right-Pallidum"
+   ],
+   "preview": "stroke"
+  },
+  {
+   "key": "epilepsy",
+   "label": "Epilepsy",
+   "blurb": "MRI-negative right temporal",
+   "pathway": "structural",
+   "age": "66",
+   "sex": "male",
+   "vignette": "CLINICAL NEUROSURGERY VIGNETTE:\r\nMEDICALLY REFRACTORY FOCAL EPILEPSY\r\nPhase II Surgical Evaluation Report\r\n\r\nPatient ID\tParticipant 0028326\r\nAge / Sex\t66 years old / Male\r\nClinical Baseline Status\tCognitively Normal (DLBS Cohort)\r\nChief Complaint\tEscalating, medically refractory focal impaired awareness seizures (FIAS)\r\n\r\n1. CLINICAL HISTORY & PRESENTATION\r\nThe patient is a 66-year-old right-handed male with a three-year history of complex focal seizures. His events typically present with a brief experiential aura described as an 'indescribable rising epigastric sensation,' which rapidly progresses to behavioral arrest, blank staring, and oral-buccal automatisms (frequent lip smacking) lasting 60 to 90 seconds.\r\nPostictally, he exhibits mild, transient disorientation but safely returns to an excellent baseline cognitive profile. He remains fully cognitively normal between episodes as confirmed by comprehensive neuropsychological profiling.\r\nDue to the therapeutic failure and optimization of three distinct anti-seizure medications (ASMs)\u2014specifically maximum tolerated doses of Levetiracetam, Lamotrigine, and Lacosamide\u2014he was admitted to the Comprehensive Epilepsy Monitoring Unit (EMU) for Phase I evaluation. Long-term video-EEG monitoring successfully captured four stereotypical habitual seizures, all localizing electrographically to the right anterior temporal region.\r\n2. NEUROIMAGING & STRUCTURAL VOLUMETRIC ANALYSIS\r\nTo accurately evaluate potential structural substrates underlying his focal epilepsy, a high-resolution neuroimaging and morphometric protocol was performed utilizing a 3T Philips Achieva scanner.\r\n\u2022\tStructural Evaluation: High-resolution volumetric T1-weighted sequences (referenced from structural imaging file msub-0028326_ses-01_T1w_brain_affine_mni.nii) demonstrate a highly symmetric and well-preserved cortical topography for the patient's age. On visual and multi-planar analysis, there is no evidence of structural abnormalities, focal cortical dysplasia (FCD), cavernous malformations, or space-occupying neocortical lesions.\r\n\u2022\tVolumetric Metrics: Quantitative morphometric profiling (correlating directly with parameters embedded in msub-0028326_ses-01_scandata.json) calculates the patient's total intracranial volume at 1518.74 cc. Mesial temporal structures, including the bilateral hippocampi and amygdala segmentations, fall strictly within normal boundaries. The structural data lacks the classic hyperintensity or focal atrophy indicative of overt mesial temporal sclerosis (MTS).\r\nDiagnostic Impression: MRI-negative / Non-lesional right temporal lobe epilepsy network.\r\n3. SURGICAL PLAN AND PROPOSED INTERVENTIONS\r\nBecause the patient presents with a highly localized electroclinical zone but a non-lesional structural scan, immediate empirical resection is contraindicated. The case was presented at the multidisciplinary Epilepsy Surgery Conference, yielding a multi-tiered neurosurgical management strategy:\r\n\u2022\tPhase II Invasive Monitoring (Stereoelectroencephalography - sEEG): To precisely define the definitive boundaries of the epileptogenic zone (EZ) versus eloquent functional cortex, the patient is scheduled for robotic-assisted stereotactic placement of depth electrodes. The target trajectories will heavily sample the right hippocampus, amygdala, entorhinal cortex, and adjacent neocortex.\r\n\u2022\tMinimally Invasive Option (LiTT): If sEEG confirms a well-circumscribed, isolated focal seizure onset in the right mesial temporal structures, the patient will proceed with MR-guided Laser Interstitial Thermal Therapy (LiTT) to achieve precise computer-assisted thermal ablation of the focus.\r\n\u2022\tAlternative Surgical Paths: If a wider network or neocortical onset is uncovered, a tailored anterior temporal lobectomy (ATL) or the functional implantation of a Responsive Neurostimulation (RNS) system will be pursued to achieve seizure freedom while protecting his baseline cognitive performance.",
+   "oneLiner": "66M with medically refractory focal impaired awareness seizures, MRI-negative right temporal lobe epilepsy, planned sEEG with possible LiTT/ATL/RNS.",
+   "nAnalyzed": 49,
+   "nCited": 32,
+   "findings": [
+    {
+     "title": "Multimodal presurgical mapping localizes drug-resistant focal epilepsy networks",
+     "body": "In drug-resistant focal epilepsy, presurgical localization is framed as a multimodal problem: scalp video/EEG telemetry, structural and functional MRI, and SPECT/PET are standard tools for seizure-onset-zone detection and interpretation. Comprehensive DRE evaluation is operationalized as brain imaging, video electroencephalography, and neuropsychological assessment, and focal-epilepsy MRI gains presurgical specificity through correlation with electrical pattern, semiology, or other neuroimaging. For this 66-year-old man with MRI-negative right temporal focal impaired-awareness seizures, the directly relevant pattern is concordant localization across modalities rather than lesion visibility alone. sEEG evidence adds anatomically diffuse sampling, including deep structures, and maps epileptic networks near eloquent cortex, linking network definition to resective/ablative therapies and neuromodulation.",
+     "bullets": [
+      "Drug resistance affects ~30% of patients with epilepsy; focal epilepsy is the most frequent form, and surgery is described as a treatment option in drug-resistant focal epilepsy depending on seizure-focus localization.",
+      "The comprehensive neurodiagnostic evaluation proxy comprised magnetic resonance or other advanced brain imaging, video electroencephalography, and neuropsychological evaluation within 2 years of meeting inclusion criteria."
+     ],
+     "strength": "very_low",
+     "sources": 4
+    },
+    {
+     "title": "Right temporal optic-radiation and memory circuits carry measurable visual-field and cognitive morbidity",
+     "body": "For this patient\u2019s right temporal seizure network, the most lateralized morbidity signal is cognitive: right-sided temporal resections are linked to greater postoperative nonverbal memory loss, and unilateral temporal removals impair recognition of visual-scene content in the contralateral hemifield, supporting a retinotopic visual-memory component. Visual-field morbidity converges across open temporal resection, selective amygdalohippocampectomy trajectories, and MRgLITT/TLR comparisons, consistent with optic-radiation or temporal-stem vulnerability rather than a single-procedure phenomenon. Dominant-temporal data add the speech and verbal-memory layer: postoperative verbal-memory decline correlated with surgical lesions in fMRI memory-activated dominant posterior parahippocampal cortex, making this evidence most relevant if language is atypical, bilateral, or right-sided in this right temporal case. Ongoing lesion-symptom and intracranial-EEG work treats standard neuropsychological testing as insensitive to spatial and scene-memory morbidity, aligning with the right temporal visual-recognition signal and the MRI-negative network context.",
+     "bullets": [
+      "In a 161-patient temporal lobe epilepsy surgery cohort, postoperative visual field deficits occurred in 51% of patients.",
+      "In dominant temporal lobe epilepsy surgery with functional risk mapping, verbal memory decline occurred in 2 of the 14 (14.3%) patients and contralateral visual field defect occurred in 1 patient (7.1%).",
+      "After partial unilateral temporal removals, left- and right-sided groups were n = 5 each, and errors for half-scenes in the hemifield contralateral to the removal increased by 50% on average."
+     ],
+     "strength": "very_low",
+     "sources": 7
+    },
+    {
+     "title": "sEEG safety hazards \u2014 low pooled complication rates with hemorrhage-led morbidity",
+     "body": "The most specific recent safety signal for sEEG is image-detected intracranial hemorrhage: a Mayo adult series found hemorrhage more often than older pooled estimates, but most affected patients were asymptomatic or had mild neurological manifestations and surgical-treatment outcomes after monitoring were usually favorable. Across broader SEEG literature, surgical complications are dominated by hemorrhagic events, giving a low pooled complication burden for depth-electrode insertion and monitoring. Vascular-injury morbidity can be disproportionate to its frequency: symptomatic pseudoaneurysms in a large DRE sEEG cohort arose at distal middle cerebral artery branches, presented as intracerebral or subarachnoid hemorrhage, and often interrupted the planned recording pathway. For this 66-year-old with MRI-negative right temporal epilepsy, these data map most directly to the depth-electrode phase before possible LiTT/ATL/RNS, while infection evidence is less granular and appears within comparative cohorts reporting similar overall complication profiles for robot-assisted and frame-based sEEG.",
+     "bullets": [
+      "Mayo sEEG series: 201 implants had ICH in 23 (11%) cases, corresponding to 0.9% electrodes implanted; 82% were asymptomatic or mild and 90% of patients who proceeded with surgical treatments had favorable outcomes."
+     ],
+     "strength": "very_low",
+     "sources": 4
+    },
+    {
+     "title": "Single-zone sEEG localization emerges in a minority of temporal lobe epilepsy cases",
+     "body": "In a cohort with a majority of temporal lobe epilepsy, sEEG localized a single seizure-onset zone in only a small minority, and single-zone localization tracked with shorter monitoring than multifocal sEEG seizure-onset patterns . For this 66M with MRI-negative right temporal epilepsy being evaluated for sEEG-linked therapy pathways, the temporal-lobe representation is anatomically relevant, while the strongest inference in the source is for patients with BI/U ictal onset on scalp EEG, where subsequent seizure freedom was described as low.",
+     "bullets": [
+      "Temporal lobe epilepsy comprised 65.5% of the cohort.",
+      "Curative focal resections were performed in 12% (n = 10), with long-term Engel I outcomes achieved in 1.2% of the entire cohort."
+     ],
+     "strength": "very_low",
+     "sources": 1
+    },
+    {
+     "title": "Concordant MRI-negative temporal localization links resection to seizure freedom",
+     "body": "In MRI-negative temporal lobe epilepsy, contemporary resection cohorts show seizure freedom in a majority of patients, with better outcomes linked to concordant presurgical evaluations, localized FDG-PET hypometabolism, and oroalimentary automatism. The same nonlesional TLE mapping evidence found that potentially epileptogenic areas frequently fell beyond or outside a standard ATL margin, and nonlesional neocortical cases with temporal scalp onset localized by intracranial study included lateral temporal and extratemporal onset zones. ATL-specific nonlesional evidence stratifies postoperative seizure control by the character of acute postoperative seizures, with habitual-event recurrences marking worse outcomes than auras, focal motor seizures, or generalized tonic-clonic seizures. For this 66M with an MRI-negative right temporal epilepsy network, the aggregate evidence is most directly relevant to whether invasive localization defines a concordant right temporal target within an ATL-type field; cognitive evidence from MRI- and histopathology-negative temporal surgery adds a separate relevance point because nonlesional functional tissue resection was associated with postoperative memory loss.",
+     "bullets": [],
+     "strength": "very_low",
+     "sources": 5
+    },
+    {
+     "title": "Mesial temporal LiTT yields meaningful seizure control with lower minor morbidity than temporal resection",
+     "body": "MRI-normal/nonlesional MTLE shows lower Engel I seizure-freedom after LiTT than hippocampal-sclerosis MTLE in the closest lesion-status stratified series, making that pediatric signal descriptively relevant to this older adult with MRI-negative right temporal epilepsy. Adult and mixed MTLE LiTT cohorts converge on meaningful seizure freedom with generally mild/transient adverse events, while pooled literature places LITT seizure outcomes slightly below published temporal lobectomy outcomes. Direct pooled comparison with temporal lobe resection shows a trade-off: resection has higher seizure-freedom, whereas MRgLITT has fewer minor complications and a more favorable confrontation-naming profile. Early MRg-LITT literature associates stereotactic laser amygdalohippocampotomy with a less invasive MTLE procedure, shorter hospital stay, and fewer neurocognitive side effects than craniotomy-based anterior temporal lobectomy with amygdalohippocampectomy or selective amygdalohippocampectomy.",
+     "bullets": [
+      "LAANTERN MTLE LITT: Fifteen centers enrolled 145 patients, with 77 reaching 2-year follow-up; 2-year outcomes were 45 of 77 (58.4%) Engel 1 and 44 of 77 (57.2%) ILAE 1/2; adverse events occurred in 24 patients (16.5%).",
+      "Pediatric MTLE LiTT lesion-status series: 19 patients; 10 patients (52.5%) had hippocampal sclerosis on MRI and 9 patients (47.5%) had normal brain MRI; Engel 1 was 14 of 19 patients (73.5%), with 9 of 10 patients (90%) in the lesional group and 5 of 9 patients (55.5%) in the nonlesional group.",
+      "Ablation meta-analysis: 13 studies (551 patients); pooled mean ablation volume was 5376 mm3 (range, 2900-7110 mm3), pooled mean hippocampal ablation was 67.5% (range, 56%-78.3%), pooled mean amygdala ablation was 58.8% (range, 43%-73.7%); overall seizure freedom was 58% (95% confidence interval [CI], 54%-62%) and overall complication rate was 17% (95% CI, 13%-22%)."
+     ],
+     "strength": "very_low",
+     "sources": 6
+    },
+    {
+     "title": "Bitemporal RNS pathway after sEEG-defined nonlesional temporal networks",
+     "body": "In non-lesional mesial temporal epilepsy, stereo-EEG can uncover independent bilateral mesial temporal seizure onset despite unilateral non-invasive data, and the same bitemporal pattern was later confirmed on RNS electrocorticography in treated patients. For this 66M with MRI-negative right temporal epilepsy and planned sEEG, that evidence maps closely to the clinical uncertainty of whether the apparent right temporal onset represents a unilateral target or part of a bilateral temporal network. SEEG is also described as a route that avoids unnecessary craniotomy when seizures localize to unresectable eloquent cortex, prove multifocal or nonfocal, or are ultimately managed with stereotactic procedures including LITT and RNS. Quantitative MRI summary measures add a parallel nonlesional TLE lateralization signal and also correlated with seizure freedom after surgery, emphasizing that MRI-negative temporal epilepsy can still carry measurable hemispheric network signatures.",
+     "bullets": [
+      "Non-lesional mesial temporal lobe epilepsy had seizure relapse in up to 50% of patients.",
+      "In a 177-patient invasive presurgical SEEG cohort, 29 had non-lesional MTLE; among 29 patients with non-lesional MRI and mesial temporal seizure onset on SEEG, four patients with a unilateral preimplantation hypothesis had independent bilateral mesial temporal seizures.",
+      "Three patients with independent bitemporal seizure onset were treated with bitemporal RNS, and independent bilateral mesial temporal seizures were confirmed on RNS ECoG."
+     ],
+     "strength": "very_low",
+     "sources": 3
+    },
+    {
+     "title": "Functional imaging convergence sharpens MRI-negative temporal localization",
+     "body": "In MRI-negative epilepsy, PET retains relatively consistent localization performance across clinical contexts, whereas SPECT/SISCOM is more variable; the same review describes PET or SPECT as adding clinically relevant localization accuracy when MRI is normal. For this man with an MRI-negative right temporal epilepsy network and planned sEEG, these modalities describe noninvasive convergence points for sampling a network without a visible temporal lesion. MEG adds complementary high-spatial-resolution source localization, and integration with PET or high-density EEG improved localization and surgical-outcome prediction in reviewed focal epilepsy cohorts. A comprehensive epilepsy-surgery workup cohort using video EEG, MRI, ictal-SPECT, PET, and MEG included many temporal seizure-onset zones and showed more favorable outcomes for temporal than extra-temporal substrates after multimodal evaluation.",
+     "bullets": [
+      "Systematic review: Fifteen studies included a total of 1157 patients; PET sensitivity was 33-89%, SPECT/SISCOM sensitivity was 33-83%, and PET or SPECT accuracy in normal-MRI patients was 63-89%.",
+      "MEG systematic review: nine studies (n=354 focal epilepsy patients); MEG alone achieved up to the mid-70% range."
+     ],
+     "strength": "very_low",
+     "sources": 3
+    }
+   ],
+   "structures": [
+    "GM Lateral geniculate body",
+    "Right-VentralDC",
+    "WM Acoustic radiation",
+    "Right Pallidum",
+    "GM Medial geniculate body",
+    "Right-Thalamus",
+    "WM Corticospinal tract",
+    "Right Putamen"
+   ],
+   "preview": "epilepsy"
+  },
+  {
+   "key": "glioma-behavioral",
+   "label": "Glioma",
+   "blurb": "Frontal glioma \u00b7 behavioral change",
+   "pathway": "glioma",
+   "age": "47",
+   "sex": "male",
+   "vignette": "A 47-year-old right-handed man with no significant past medical history was referred to neurosurgery following several months of progressive personality and behavioral changes. His wife reported increasing apathy, emotional blunting, impaired judgment, and episodes of inappropriate social behavior that were uncharacteristic for him. He had recently experienced difficulty managing finances and organizing tasks at work, resulting in declining job performance. Over the preceding six weeks, he also developed intermittent bifrontal headaches, worse in the morning, occasionally associated with nausea but no vomiting. There was no history of seizures, focal weakness, sensory deficits, or visual loss.\r\n\r\nOn neurological examination, the patient was alert and oriented. Cranial nerve examination was normal, including visual acuity and visual fields by confrontation. Motor and sensory examinations were unremarkable. Formal neuropsychological testing demonstrated deficits in executive function, attention, cognitive flexibility, and decision-making. Mild disinhibition and reduced insight into his symptoms were noted during the clinical interview. The remainder of the examination was normal.\r\n\r\nMagnetic resonance imaging (MRI) of the brain revealed a 4.8 \u00d7 4.2 \u00d7 3.9 cm infiltrative mass centered within the right orbitofrontal cortex and gyrus rectus. The lesion demonstrated heterogeneous T2/FLAIR hyperintensity with mild expansion of the involved gyri and patchy regions of contrast enhancement. Relative cerebral blood volume was mildly elevated on perfusion imaging. The mass extended posteriorly toward the frontal horn of the lateral ventricle and superiorly into the inferior frontal gyrus. There was associated vasogenic edema causing mild local mass effect with partial effacement of adjacent sulci but no significant midline shift. Diffusion-weighted imaging showed no areas of restricted diffusion. Functional MRI demonstrated displacement of nearby frontal association networks without involvement of primary motor or language cortices.\r\n\r\nGiven the patient's progressive cognitive and behavioral decline, imaging findings concerning for a diffuse glioma, and the favorable location for surgical access, a multidisciplinary neuro-oncology tumor board recommended maximal safe resection. Preoperative planning included diffusion tensor imaging tractography to evaluate proximity to the uncinate fasciculus and frontostriatal pathways, as well as neuropsychological assessment to establish baseline executive function.\r\n\r\nThe patient subsequently underwent a right frontal craniotomy with neuronavigation-guided tumor resection. Intraoperatively, the lesion appeared infiltrative and moderately vascular. Gross-total resection of the enhancing component was achieved while preserving adjacent eloquent white matter tracts. Postoperative MRI confirmed near-complete resection with a small residual area of non-enhancing infiltrative tumor along the deep orbitofrontal white matter.",
+   "oneLiner": "",
+   "nAnalyzed": 0,
+   "nCited": 0,
+   "findings": [],
+   "structures": [
+    "ctx-rh-cuneus",
+    "ctx-rh-superiorparietal",
+    "Cuneal Cortex",
+    "ctx-rh-pericalcarine",
+    "GM Superior parietal lobule 7P",
+    "GM Anterior intra-parietal sulcus hIP1",
+    "Intracalcarine Cortex",
+    "ctx-rh-precuneus"
+   ],
+   "preview": "glioma-behavioral"
+  }
+ ]
+}
