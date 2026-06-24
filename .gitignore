@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Xcode — user-specific state (should never be committed)
+xcuserdata/
+*.xcuserstate
+
+# Xcode build output
+build/
+DerivedData/
+
+# Swift Package Manager
+.swiftpm/
+.build/
